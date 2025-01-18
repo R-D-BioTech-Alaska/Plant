@@ -1,0 +1,14 @@
+
+### I will update this as time permits (for use with garden)
+[
+  {
+    "name": "Petunias - wave",
+    "profile": "Petunias are popular garden plants known for their vibrant flowers. They prefer full sun and well-drained soil.",
+    "species": "Petunia",
+    "plant_class": "Angiosperm",
+    "genus": "Petunia",
+    "recommended_nutrition": "Balanced NPK fertilizer every 2 weeks during growing season.",
+    "safe_to_consume": false,
+    "recommended_watering": "Water regularly but avoid overwatering; allow topsoil to dry between waterings.",
+    "edible": false
+  },
